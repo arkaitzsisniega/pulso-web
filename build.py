@@ -83,7 +83,7 @@ T = {
         "c_caps": [
             ("02_nuevo", "Preparar el partido", "Rival, convocados y los cinco que salen. La competición fija la duración y la prórroga."),
             ("03_directo", "El partido en directo", "Reloj, marcador y faltas arriba. En pista, cuánto lleva cada uno. En el banquillo, cuánto descansa."),
-            ("05_jugador", "Tocas a un jugador", "Robo, corte, pérdida, disparo, falta o tarjeta. Y el cambio, en la misma ventana."),
+            ("05_jugador", "Tocas a un jugador", "Robo, corte, pérdida, disparo, falta o tarjeta. Y el cambio, en la misma ventana. Aquí, en modo Sol: claro, para pabellones con mucha luz."),
             ("04_gol", "Apuntar un gol", "Goleador, asistente y jugada. Quién estaba en pista se guarda solo: ya tienes el quinteto del gol."),
             ("06_resumen", "El resumen, en cualquier momento", "En mitad del partido o en el descanso: disparos de los dos equipos, pérdidas y recuperaciones."),
             ("09_cronograma", "Cronograma", "Quién estuvo en pista en cada minuto, con goles, faltas y disparos encima."),
@@ -201,7 +201,7 @@ T = {
         "c_caps": [
             ("02_nuevo", "Set up the match", "Opponent, squad and starting five. The competition sets the half length and extra time."),
             ("03_directo", "The live match", "Clock, score and fouls at the top. On court: time played by each player. On the bench: rest time."),
-            ("05_jugador", "Tap a player", "Steal, interception, turnover, shot, foul or card. And the substitution, in the same window."),
+            ("05_jugador", "Tap a player", "Steal, interception, turnover, shot, foul or card. And the substitution, in the same window. Shown here in Sun mode: a light theme for bright venues."),
             ("04_gol", "Log a goal", "Scorer, assist and type of play. The players on court are saved automatically, so you have the five for each goal."),
             ("06_resumen", "The summary, at any moment", "During the match or at half-time: shots for both teams, turnovers and recoveries."),
             ("09_cronograma", "Match timeline", "Who was on court in each minute, with goals, fouls and shots on top."),

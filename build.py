@@ -341,6 +341,7 @@ def pagina(t):
 <meta property="og:url" content="{url}">
 <meta property="og:image" content="{DOMINIO}/img/{L}/crono_03_directo.webp">
 <link rel="icon" href="{p}favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="{p}apple-touch-icon.png">
 <link rel="stylesheet" href="{p}styles.css">
 </head>
 <body>
@@ -562,6 +563,7 @@ def pagina_legal(t, clave):
 <meta name="robots" content="noindex">
 <meta name="theme-color" content="#0b2545">
 <link rel="icon" href="{p}favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="{p}apple-touch-icon.png">
 <link rel="stylesheet" href="{p}styles.css">
 </head>
 <body>
